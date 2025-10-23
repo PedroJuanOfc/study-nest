@@ -1,0 +1,16 @@
+{
+  "name": "study-nest",
+  "version": "1.0.0",
+  "description": "Um espaço colaborativo para aprender, compartilhar e crescer juntos.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "Pedro Juan Ferreira Saraiva",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^15.5.6",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}

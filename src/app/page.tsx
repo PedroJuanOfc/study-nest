@@ -13,7 +13,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="max-w-3xl mx-auto text-center mb-16">
         <h1 className="text-4xl md:text-5xl font-bold mb-4">
-          Bem-vindo ao Study Nest 🐦
+          Bem-vindo ao Study Nest
         </h1>
         <p className="text-xl text-muted-foreground mb-8">
           Meu espaço pessoal para documentar minha jornada de aprendizado,
